@@ -1,0 +1,11 @@
+C:\Users\User\CILab\CalculatorModule\bin\Debug\net9.0\CalculatorModule.deps.json
+C:\Users\User\CILab\CalculatorModule\bin\Debug\net9.0\CalculatorModule.dll
+C:\Users\User\CILab\CalculatorModule\bin\Debug\net9.0\CalculatorModule.pdb
+C:\Users\User\CILab\CalculatorModule\obj\Debug\net9.0\CalculatorModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\CILab\CalculatorModule\obj\Debug\net9.0\CalculatorModule.AssemblyInfoInputs.cache
+C:\Users\User\CILab\CalculatorModule\obj\Debug\net9.0\CalculatorModule.AssemblyInfo.cs
+C:\Users\User\CILab\CalculatorModule\obj\Debug\net9.0\CalculatorModule.csproj.CoreCompileInputs.cache
+C:\Users\User\CILab\CalculatorModule\obj\Debug\net9.0\CalculatorModule.dll
+C:\Users\User\CILab\CalculatorModule\obj\Debug\net9.0\refint\CalculatorModule.dll
+C:\Users\User\CILab\CalculatorModule\obj\Debug\net9.0\CalculatorModule.pdb
+C:\Users\User\CILab\CalculatorModule\obj\Debug\net9.0\ref\CalculatorModule.dll

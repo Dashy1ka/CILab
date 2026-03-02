@@ -1,0 +1,11 @@
+C:\Users\User\CILab\GreetingModule\obj\Debug\net9.0\GreetingModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\CILab\GreetingModule\obj\Debug\net9.0\GreetingModule.AssemblyInfoInputs.cache
+C:\Users\User\CILab\GreetingModule\obj\Debug\net9.0\GreetingModule.AssemblyInfo.cs
+C:\Users\User\CILab\GreetingModule\obj\Debug\net9.0\GreetingModule.csproj.CoreCompileInputs.cache
+C:\Users\User\CILab\GreetingModule\bin\Debug\net9.0\GreetingModule.deps.json
+C:\Users\User\CILab\GreetingModule\bin\Debug\net9.0\GreetingModule.dll
+C:\Users\User\CILab\GreetingModule\bin\Debug\net9.0\GreetingModule.pdb
+C:\Users\User\CILab\GreetingModule\obj\Debug\net9.0\GreetingModule.dll
+C:\Users\User\CILab\GreetingModule\obj\Debug\net9.0\refint\GreetingModule.dll
+C:\Users\User\CILab\GreetingModule\obj\Debug\net9.0\GreetingModule.pdb
+C:\Users\User\CILab\GreetingModule\obj\Debug\net9.0\ref\GreetingModule.dll
