@@ -17,7 +17,7 @@ jobs:
     - name: Setup .NET
       uses: actions/setup-dotnet@v3
       with:
-        dotnet-version: '6.0.x'
+        dotnet-version: '9.0.x'
 
     - name: Restore dependencies
       run: dotnet restore CILab.sln
@@ -26,4 +26,11 @@ jobs:
       run: dotnet build CILab.sln --no-restore --configuration Release
 
     - name: Test
-      run: dotnet test CILab.sln --no-build --configuration Release --verbosity normal
+      run: dotnet test CILab.sln --no-build --configuration Release --logger trx
+
+    - name: Upload test results
+      if: always()
+      uses: actions/upload-artifact@v3
+      with:
+        name: test-results
+        path: '**/TestResults/*.trx'
